@@ -97,9 +97,8 @@ public class Dhrupad extends Developer {
 
 | Platform | Problems Solved | Streak | Profile |
 |:--------:|:--------------:|:------:|:-------:|
-| 🟡 LeetCode | ![](https://img.shields.io/badge/dynamic/json?label=Solved&query=solvedProblem&url=https://leetcode-badge-sage.vercel.app/badge/dhrupadmalviya&color=5d5fef&style=flat-square) | Daily 🔥 | [dhrupadmalviya](https://leetcode.com/dhrupadmalviya) |
-| 🟠 Codeforces | Grinding | Active | [dhrupadmalviya](https://codeforces.com/profile/dhrupadmalviya) |
-| 🟢 GeeksForGeeks | Learning | Weekly | [Profile](https://auth.geeksforgeeks.org/user/dhrupadmalviya) |
+| 🟡 LeetCode | ![](https://img.shields.io/badge/dynamic/json?label=Solved&query=solvedProblem&url=https://leetcode-badge-sage.vercel.app/badge/dhrupadmalviya&color=5d5fef&style=flat-square) | Daily 🔥 | [dhrupad_18](https://leetcode.com/dhrupad_18) |
+| 🟢 GeeksForGeeks | Learning | Weekly | [dhrupad_18](https://auth.geeksforgeeks.org/user/dhrupad_18) |
 
 </div>
 
@@ -169,7 +168,7 @@ Phase 5 · Own OSS Project       ⏳ UPCOMING
 ---
 
 <!-- GOALS -->
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 ```
 ┌─────────────────────────────────────────────────────────┐
