@@ -172,7 +172,7 @@ Phase 5 · Own OSS Project       ⏳ UPCOMING
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                   DHRUPAD'S 2025 TARGETS                │
+│                   DHRUPAD'S 2026 TARGETS                │
 ├─────────────────────────────────────────────────────────┤
 │  ☐  Land first role at FAANG / Big Tech                 │
 │  ☐  500+ LeetCode problems solved                       │
