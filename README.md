@@ -21,7 +21,7 @@
 public class Dhrupad extends Developer {
 
     String name        = "Dhrupad Malviya";
-    String location    = "India 🇮🇳";
+    String location    = "Prayagraj, Uttar Pradesh, India";
     String status      = "Fresh Graduate — Building in Public";
     String[] focus     = { "Java Full Stack", "Spring Boot", "DSA", "Open Source" };
     String[] targets   = { "Google", "Amazon", "Meta", "Microsoft" };
