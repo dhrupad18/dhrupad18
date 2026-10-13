@@ -8,7 +8,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=5D5FEF&center=true&vCenter=true&width=600&lines=Building+with+Spring+Boot+%26+Angular;Cracking+DSA+every+single+day+%F0%9F%A7%A0;Open+Source+contributor+in+progress+%F0%9F%8C%B1;On+the+road+to+Google+%C2%B7+Amazon+%C2%B7+Meta+%C2%B7+Microsoft)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=5D5FEF&center=true&vCenter=true&width=600&lines=Building+with+Spring+Boot+%26+React;Cracking+DSA+every+single+day+%F0%9F%A7%A0;Open+Source+contributor+in+progress+%F0%9F%8C%B1;On+the+road+to+Google+%C2%B7+Amazon+%C2%B7+Meta+%C2%B7+Microsoft)](https://git.io/typing-svg)
 
 </div>
 
